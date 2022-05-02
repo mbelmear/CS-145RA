@@ -1,0 +1,46 @@
+.container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+body {
+	background-color: rgba(0, 0, 0, 0.863);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: goldenrod;
+	font-family: "Staatliches", monospace;
+	font-style: normal;
+	font-size: auto;
+	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	letter-spacing: 1px;
+}
+
+p {
+	color: white;
+	line-height: normal;
+	font-family: Arial, sans-serif;
+}
+
+ul {
+	color: white;
+	line-height: normal;
+	font-family: Arial, sans-serif;
+}
+
+ol {
+	color: white;
+	line-height: normal;
+	font-family: Arial, sans-serif;
+}
+
+blockquote {
+	color: white;
+	line-height: normal;
+	font-family: Arial, sans-serif;
+}
