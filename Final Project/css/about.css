@@ -1,0 +1,74 @@
+.row1 {
+  display: flex;
+}
+.column1 {
+  flex: 50%;
+}
+h2{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: peru;
+}
+.column {
+  float: left;
+}
+.left, .right {
+  width: 25%;
+}
+.middle {
+  width: 50%;
+}
+.midimg{
+  width: 800px;
+  border: 0px solid black;
+  padding: 0px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.colmidimg{
+  width: 300px;
+  border: 0px solid black;
+  padding: 0px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.staff{
+  width: 500px;
+  border: 0px solid black;
+  padding: 0px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.who{
+  width: 500px;
+  border: 0px solid black;
+  padding: 0px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.join{
+  width: 300px;
+  border: 0px solid black;
+  padding: 0px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.donate{
+  width: 300px;
+  border: 0px solid black;
+  padding: 0px;
+  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
